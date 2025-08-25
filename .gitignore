@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+
+# Node / npm 
+node_modules/
+package-lock.json
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Env files 
+.env
+.env.local
+*.secret
+
+# Build/Output 
+dist/
+build/
+
+# Chrome Extension build cache 
+*.crx
+*.pem

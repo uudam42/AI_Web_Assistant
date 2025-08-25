@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "AI Web Assistant",
+  "version": "1.0.0",
+  "description": "Right-click selected text to Translate / Summarize / Explain with an AI tooltip.",
+  "permissions": [
+    "contextMenus",
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://api.openai.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": { "default_popup": "popup.html" },
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["content.js"],
+    "css": ["styles.css"]
+  }]
+}
