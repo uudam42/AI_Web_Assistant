@@ -36,19 +36,16 @@ It’s designed for students, researchers, and curious readers who want instant 
 
 ### Popup (API Key & Model setup)
 
-![Popup UI](ui.jpg)
-
-### Right-click Menu
-
-![Context Menu](summary.jpg)
+![ui](https://github.com/user-attachments/assets/a4110b74-3032-43c6-a707-1ffaf55138fd)
 
 ### Translate Tooltip
 
-![Translate Example](translate.jpg)
+![translate](https://github.com/user-attachments/assets/9166470f-cebf-4d4a-84e7-5878bb35c045)
 
 ### Summarize Tooltip
 
-![Summarize Example](summary.jpg)
+![summary](https://github.com/user-attachments/assets/897c1781-ffea-4642-82ac-0838f2218fe0)
+
 
 ---
 
