@@ -111,12 +111,6 @@ Example Workflow:
 3. Tooltip shows 3 bullet-point summary.
 ```
 
-Screenshots:
-
-* Popup → API key input and model select
-* Context menu → options visible
-* Tooltip → shows translated or summarized result
-
 ---
 
 ## Contributing
